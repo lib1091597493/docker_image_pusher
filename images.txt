@@ -1,4 +1,6 @@
-redis
+elasticsearch:7.4.2
+kibana:7.4.2
+#redis
 #nginx
 #nginx:1.26.0
 #wordpress
