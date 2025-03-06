@@ -1,5 +1,6 @@
-elasticsearch:7.4.2
-kibana:7.4.2
+nginx:1.10
+#elasticsearch:7.4.2
+#kibana:7.4.2
 #redis
 #nginx
 #nginx:1.26.0
