@@ -1,4 +1,5 @@
-nginx:1.10
+rabbitmq:management
+#nginx:1.10
 #elasticsearch:7.4.2
 #kibana:7.4.2
 #redis
