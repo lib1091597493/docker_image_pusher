@@ -1,4 +1,4 @@
-flannel:v0.11.0-amd64
+jmgao1983/flannel:v0.11.0-amd64
 #rabbitmq:management
 #nginx:1.10
 #elasticsearch:7.4.2
