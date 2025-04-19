@@ -1,4 +1,5 @@
-rabbitmq:management
+flannel:v0.11.0-amd64
+#rabbitmq:management
 #nginx:1.10
 #elasticsearch:7.4.2
 #kibana:7.4.2
